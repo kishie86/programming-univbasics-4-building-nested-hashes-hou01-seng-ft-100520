@@ -115,6 +115,6 @@ end
 
 
 ddef base_hash
-  { :railroads => {}
-    }
+  { :railroads => {}}
+    
 end
