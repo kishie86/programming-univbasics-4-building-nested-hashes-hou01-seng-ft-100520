@@ -113,12 +113,6 @@ describe "We can create complex, nested Hashes by implementing four methods:" do
 end
 
 
-def base_hash
-  { :railroads => {}}
-end
-
-def base_hash
-  { :
 
   
     
