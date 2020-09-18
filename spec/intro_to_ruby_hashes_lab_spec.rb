@@ -114,4 +114,4 @@ end
 
 
 
-def 
+def base_hash
