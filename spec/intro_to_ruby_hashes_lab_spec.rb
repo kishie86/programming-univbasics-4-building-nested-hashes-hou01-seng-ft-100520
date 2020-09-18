@@ -116,4 +116,5 @@ end
 
 def base_hash
   { :railroads => {}
+  }
 end
